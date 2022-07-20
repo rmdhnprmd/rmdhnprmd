@@ -1,6 +1,11 @@
+<a href="" style="text-align: center;">
+<p align="center">
+<img alt="Coding" src="https://steamuserimages-a.akamaihd.net/ugc/1696157019707375037/BD6E6F9F1065D25D25E63DADF820A406B28032BA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
+</a>
 <h1 align="center">Hi 👋, I'm Ramadhan Permadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
 
 - 🌱 I’m currently learning **Javascript, ReactJs, NodeJs, MERN Stack**
