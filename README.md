@@ -4,8 +4,7 @@
 </p>
 </a>
 <h1 align="center">Hi 👋, I'm Ramadhan Permadi</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
+<h3 align="center">A passionate frontend developer from Indonesia <img src="https://c.tenor.com/ECYJ20GavHsAAAAj/squidward-spongebob.gif" width="60px"></img></h3>
 
 
 - 🌱 I’m currently learning **Javascript, ReactJs, NodeJs, MERN Stack**
